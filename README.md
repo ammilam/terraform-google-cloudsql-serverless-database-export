@@ -2,8 +2,6 @@
 
 This directory contains a Terraform Module that is intended to create a serverless backup solution for a single Google Cloud SQL Database.
 
-[[_TOC_]]
-
 ## Module Contents
 
 This module deploys the following GCP resources:
